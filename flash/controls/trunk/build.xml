@@ -11,7 +11,7 @@
     <!-- location of the skin swd, anc swc -->
     <property name="library-path" value="src/flash/modern" />
 
-    <property name="extra-sources" value="../common/src/actionscript" />
+    <property name="extra-sources" value="/Users/uenyioha/git-repos/flowplayer/common/src/actionscript" />
 
 
     <property file="${devkit-dir}/plugin-build.properties" />
