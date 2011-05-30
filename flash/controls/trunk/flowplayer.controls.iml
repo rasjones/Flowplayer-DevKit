@@ -2,7 +2,7 @@
 <module type="Flex" version="4">
   <component name="Flex.Build.Configuration">
     <option name="DO_BUILD" value="true" />
-    <option name="OUTPUT_FILE_NAME" value="viralvideos.swf" />
+    <option name="OUTPUT_FILE_NAME" value="flowplayer.controls.swf" />
     <option name="TARGET_PLAYER_VERSION" value="10.2.0" />
     <option name="VERSION" value="3" />
   </component>
@@ -14,7 +14,9 @@
     </content>
     <orderEntry type="jdk" jdkName="4.5 (player 10.2)" jdkType="Flex SDK Type" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module" module-name="flowplayer.devkit" exported="" />
+    <orderEntry type="module" module-name="flowplayer.core" exported="" />
+    <orderEntry type="module" module-name="common" exported="" />
+    <orderEntry type="module" module-name="content" exported="" />
   </component>
 </module>
 
